@@ -1,3 +1,3 @@
 select * From trutruc
-where blabla
+where blabloblu
 and bliblou
